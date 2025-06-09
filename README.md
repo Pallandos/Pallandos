@@ -1,7 +1,19 @@
 <div align="center">
-  
+
+# Hi, I'm Jean 👋 🇫🇷
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pallandos&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pallandos&show_icons=true&count_private=true)
+
+## About me
+
+🪙 Currently working on **blockchain deanonymization** using network analysis 🪙
+
+🌱 I'm constantly learning new technologies and frameworks to stay at the cutting edge 🌱
+
+📫 How to reach me: [jean.caylus@ensta.fr](mailto:jean.caylus@ensta.fr) 📫
+
+⭐ If you find any of my repositories interesting, feel free to _leave a star_ ⭐
 
 ## Trophies
 

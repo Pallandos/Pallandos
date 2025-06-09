@@ -9,6 +9,6 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallandos&hide=c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallandos&hide=c,rust)
 
 </div>

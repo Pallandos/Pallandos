@@ -2,7 +2,7 @@
 
 # Hi, I'm Jean 👋 🇫🇷
 
-🚀 Check my latest project : [bitcoin-on-local](https://github.com/Pallandos/bitcoin-on-local), a local Bitcoin network simulator with automated scenarios, visual topology mapping, and developer-friendly CLI. 🚀
+🚀 Check my latest project : [quarkdown-language-support](https://github.com/Pallandos/quarkdown-language-support), a VS Code extension providing support for the amazing **quarkdown** language. 🚀
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pallandos&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pallandos&show_icons=true&count_private=true)

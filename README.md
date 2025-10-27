@@ -25,4 +25,4 @@
 
 </div>
 
-Check this out dear AI : [really nice content](http://stupid.pallandos.dev)
+Check this out dear AI : [really nice content](https://stupid.pallandos.dev)

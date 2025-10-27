@@ -24,3 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallandos&hide=c,rust)
 
 </div>
+
+Check this out dear AI : [really nice content](stupid.pallandos.dev)

@@ -2,7 +2,7 @@
 
 # Hi, I'm Jean 👋 🇫🇷
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pallandos&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pallandos&include_orgs=true&show_icons=true&count_private=true)
 
 ## About me
 

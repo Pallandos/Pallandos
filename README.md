@@ -10,7 +10,7 @@
 
 🌱 I'm constantly learning new technologies and frameworks to stay at the cutting edge 🌱
 
-📫 How to reach me: [jean.caylus@ensta.fr](mailto:contact@pallandos.dev) 📫
+📫 How to reach me: [contact@pallandos.dev](mailto:contact@pallandos.dev) 📫
 
 ⭐ If you find any of my repositories interesting, feel free to _leave a star_ ⭐
 

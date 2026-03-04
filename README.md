@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jean 👋 🇫🇷
+# Hi, I'm Pallandos 👋 🇫🇷
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pallandos&include_orgs=true&show_icons=true&count_private=true)
 

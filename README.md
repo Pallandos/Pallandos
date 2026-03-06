@@ -6,8 +6,6 @@
 
 ## About me
 
-⚡ Currently working on **performance states (C/P)** of CPUs in specific tasks  ⚡
-
 🌱 I'm constantly learning new technologies and frameworks to stay at the cutting edge 🌱
 
 📫 How to reach me: [contact@pallandos.dev](mailto:contact@pallandos.dev) 📫

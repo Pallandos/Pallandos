@@ -6,6 +6,8 @@
 
 ## About me
 
+🔐 Currently working on Zero Trust Network Access 🔐
+
 🌱 I'm constantly learning new technologies and frameworks to stay at the cutting edge 🌱
 
 📫 How to reach me: [contact@pallandos.dev](mailto:contact@pallandos.dev) 📫

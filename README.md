@@ -6,13 +6,13 @@
 
 ## About me
 
+✋ I am a french tech enjoyer, interested in privacy and reverse engineering ✋
+
 🔐 Currently working on Zero Trust Network Access 🔐
 
 🌱 I'm constantly learning new technologies and frameworks to stay at the cutting edge 🌱
 
 📫 How to reach me: [contact@pallandos.dev](mailto:contact@pallandos.dev) 📫
-
-⭐ If you find any of my repositories interesting, feel free to _leave a star_ ⭐
 
 ## Trophies
 

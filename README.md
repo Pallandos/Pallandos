@@ -6,7 +6,7 @@
 
 ## About me
 
-✋ I am a french tech enjoyer, interested in privacy and reverse engineering ✋
+✋ I am a french tech enjoyer, interested in homelabing, privacy and reverse engineering ✋
 
 🔐 Currently working on Zero Trust Network Access 🔐
 
